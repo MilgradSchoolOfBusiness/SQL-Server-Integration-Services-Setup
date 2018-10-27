@@ -32,23 +32,19 @@ Go to https://www.microsoft.com/en-us/sql-server/sql-server-downloads and downlo
 ![](/SC/1.JPG)
 
 
-
 Once the download is complete, run the .exe file and select Basic 
 
-![1540627021509](C:\Users\karth\AppData\Roaming\Typora\typora-user-images\1540627021509.png)
-
+![](/SC/2.JPG)
 
 
 Select *Accept* > *Install*
 
-![1540627136574](C:\Users\karth\AppData\Roaming\Typora\typora-user-images\1540627136574.png)
-
+![](/SC/3.JPG)
 
 
 Once the installation is complete, hit *close*
 
-![1540627621608](C:\Users\karth\AppData\Roaming\Typora\typora-user-images\1540627621608.png)
-
+![](/SC/4.JPG)
 
 
 SQL server is now installed on your machine. We need one more tool before be begin using SSIS for our assignment. We need to install SQL Server Data Tools or SSDT which is a tool for building the relational databases, Analysis Services (AS), Integration Services (IS) packages, and Reporting services (SSRS). More information about SSDT can be found [HERE](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017).
@@ -63,7 +59,7 @@ Follow the below steps for step by step installation of SQL server Data Tools on
 
 - Click on the drop down below *Modify this Visual Studio 2017 instance* and select **Microsoft SQL server Data Tools for Visual Studio 2017 (SSDT)**. NOTE - This is install a separate instance of Visual Studio on your machine if you already have Visual Studio installed. This instance will be called a Microsoft SQL server Data Tools for Visual Studio 2017 (SSDT) instance. Creating this new instance is preferred for simplicity. Check only the SQL Server Integration Services checkbox since we are only dealing with SSIS. Its up to you if you want the install other components which might take more time.
 
-  ![1540629471622](C:\Users\karth\AppData\Roaming\Typora\typora-user-images\1540629471622.png)
+  ![](/SC/5.JPG)
 
 - Once the installation is complete, you are all set to perform your first activity of ETL using SSIS as a Data integration and transformation tool.
 
