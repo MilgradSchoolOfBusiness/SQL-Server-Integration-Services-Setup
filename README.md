@@ -29,7 +29,7 @@ To install SSIS, we first need to install SQL Server. SQL Server is  Microsoft's
 
 Go to https://www.microsoft.com/en-us/sql-server/sql-server-downloads and download SQL Server for **Developer**. (Tip: Developer version is a full featured free edition which can be used for a non- production environment)
 
-![](C:\Users\karth\AppData\Roaming\Typora\typora-user-images\1540626796181.png)
+![](/SC/1.JPG)
 
 
 
